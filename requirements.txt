@@ -1,0 +1,15 @@
+jupyterlab
+ipywidgets
+opencv-python
+tqdm
+numpy
+matplotlib
+pandas
+easydict
+plotly
+transformers
+open_clip_torch
+albumentations
+cmake==3.18.4
+MulticoreTSNE
+keybert
